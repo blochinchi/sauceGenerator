@@ -1,0 +1,35 @@
+/*elements*/
+body {
+  background-color: #000;
+}
+
+/*classes*/
+.mybutton-2 {
+	box-shadow: 3px 4px 4px -4px #ffffff;
+	background:linear-gradient(to bottom, #3690e0 5%, #2f302e 100%);
+	background-color:#3690e0;
+	border-radius:29px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:1px 3px 24px #1c4715;
+}
+.mybutton-2:hover {
+	background:linear-gradient(to bottom, #2f302e 5%, #3690e0 100%);
+	background-color:#2f302e;
+}
+.mybutton-2:active {
+	position:relative;
+	top:1px;
+}
+.button{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 49%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
