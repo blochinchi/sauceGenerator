@@ -1,0 +1,11 @@
+/*elements*/
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+/*classes*/
+.termsAndConditionsHeading{
+  display: inline;
+}
