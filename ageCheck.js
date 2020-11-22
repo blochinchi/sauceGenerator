@@ -1,6 +1,6 @@
 function btnClicked(){
   if (document.getElementById('ageCheck').checked) {
-    window.location.href = "https://blochinchi.github.io/sauceGenerator/";
+    window.location.href = "https://blochinchi.github.io/sauceGenerator";
     alert("hope you enjoy ;)");
     }
   else{
